@@ -36,7 +36,6 @@ You are given the following example of a promotion document. You will now create
 }
 ```
 
-
 Note in particular that the label and price fields should be implemented the same way as you did for the Dishes schema and model. The Promotions schema and model should be defined in a file named promotions.js.
 
 Next, extend the promoRouter.js to enable the interaction with the MongoDB database to fetch, insert, update and delete information.
@@ -56,7 +55,6 @@ You are given the following example of a leadership document. You will now creat
 }
 ```
 
-
 The Leaders schema and model should be defined in a file named leaders.js.
 
 Next, extend the leaderRouter.js to enable the interaction with the MongoDB database to fetch, insert, update and delete information.
