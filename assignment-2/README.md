@@ -4,7 +4,7 @@
 >
 > 1. Install Mongo DB
 > 2. Create mongodb/data folder
-> 3. Run Mongo DB server: `mongod --dbpath=data bind_ip 127.0.0.1`
+> 3. Run Mongo DB server: `mongod --dbpath=data --bind_ip 127.0.0.1`
 > 4. Connect to server: `mongo`
 > 5. Create conFusion db (inside mongo): `use conFusion`
 >
